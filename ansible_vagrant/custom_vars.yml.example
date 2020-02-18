@@ -1,0 +1,8 @@
+---
+gitlab_runner_description: "local vagrant runner"
+gitlab_runner_token: __REGISTRATION_TOKEN__
+gitlab_external_url: __YOUR_GITLAB_URL__
+gitlab_runner_tags:
+- docker
+- __YOUR_TAGS__
+...

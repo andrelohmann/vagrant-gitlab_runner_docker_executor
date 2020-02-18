@@ -1,0 +1,8 @@
+/vagrant.config.yml
+/ansible_vagrant/custom_vars.yml
+/ansible_vagrant/roles/*
+/.idea
+.vagrant
+.DS_Store
+*.retry
+*.log
